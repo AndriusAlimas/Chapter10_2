@@ -7,6 +7,6 @@
 <title>Welcome page</title>
 </head>
 <body>
-
+ 	<a href="simpleTagPage.jsp">Show example with simple custom handler</a>
 </body>
 </html>

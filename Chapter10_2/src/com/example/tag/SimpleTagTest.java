@@ -12,4 +12,5 @@ public class SimpleTagTest extends SimpleTagSupport {
 		// you can ask to get JspWriter calling getOut() method:
 		getJspContext().getOut().print("This is lamest use of a custom tag");
 	}
+	
 }
