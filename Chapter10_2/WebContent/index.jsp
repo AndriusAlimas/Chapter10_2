@@ -7,6 +7,11 @@
 <title>Welcome page</title>
 </head>
 <body>
- 	<a href="simpleTagPage.jsp">Show example with simple custom handler</a>
+
+ <ul>
+ 	<li><a href="simpleTagPage.jsp">Show example with simple custom handler</a></li>
+ 	<li><a href="simpleTagPage2.jsp">Simple Tag With a Body</a></li>
+ </ul>
+ 	
 </body>
 </html>
