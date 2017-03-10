@@ -11,6 +11,7 @@
  <ul>
  	<li><a href="simpleTagPage.jsp">Show example with simple custom handler</a></li>
  	<li><a href="simpleTagPage2.jsp">Simple Tag With a Body</a></li>
+ 	<li><a href="simpleTagPage3.jsp">Simple Tag With a Body use expression that not here at the moment</a></li>
  </ul>
  	
 </body>

@@ -9,5 +9,12 @@
 		<tag-class>com.example.tag.SimpleTagTest2</tag-class>
  		<body-content>scriptless</body-content>
  	</tag>
+ 
+ 	<tag>
+ 		<description>Another tag in same tld file</description>
+ 		<name>simple3</name>
+ 		<tag-class>com.example.tag.SimpleTagTest3</tag-class>
+ 		<body-content>scriptless</body-content>
+ 	</tag>
  	
  </taglib>
